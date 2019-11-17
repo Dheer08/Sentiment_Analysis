@@ -5,13 +5,13 @@ A website that provides analytics on Tweets of Hot topic you searched for
 
 ## Features
 
-* **Can see the people opinion
+* **Can see the people opinion**
 * **Easy to use Interface**
 
 ## Run site locally
 Run the following commands
 ```bash
-$ python setup.py install   
+$ pip requirements.txt install   
 $ python app.py
 ```
 The site can be accessed from the url `0.0.0.0:5000`
