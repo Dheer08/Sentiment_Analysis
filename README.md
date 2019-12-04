@@ -17,7 +17,7 @@ $ python app.py
 The site can be accessed from the url `0.0.0.0:5000`
 ## Issues
 
-If face an issue, please notify it [here](https://github.com/Dheer08/Sentiment_Analysis/issues) as a new issue.
+If face an issue, please notify it [here](https://github.com/Dheer08/Movie-Recomendation-System/issues) as a new issue.
 
-## Contributing
+
 
